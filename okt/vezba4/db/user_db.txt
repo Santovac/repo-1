@@ -1,0 +1,7 @@
+admin|admin
+user|admin
+user1|user
+korisnik|korisnik
+lazar|lazarsrb
+stefan|stefansrb
+david|davidsrb

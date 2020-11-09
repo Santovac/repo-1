@@ -1,4 +1,4 @@
-f = open("user_db.txt", "a")
+f = open("db/user_db.txt", "a")
 korisnik = input("Korisnicko ime: ")
 lozinka = input("Lozinka: ")
 s=korisnik+"|"+lozinka+"\n"
