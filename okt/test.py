@@ -22,5 +22,12 @@ for i,line in enumerate(lines):
 print(users)
 f.close()'''
 
-x,y = input('Input coordinates(x,y): ')
-print(x,y)
+#x,y = input('Input coordinates(x,y): ')
+#print(x,y)
+
+import math
+
+a = float(input('Unesite A:')
+b = float(input('Unesite B:')
+m = sqrt((cos(b)**2)/(sin(a+1)))
+print(M)

@@ -37,7 +37,7 @@ turtle.onkeypress(move_left, 'a')
 turtle.onkeypress(pen_up, 'z')
 turtle.onkeypress(pen_down, 'x')
 
-turtle.mainloop()
+#turtle.mainloop()
 
 
 window.exitonclick()
