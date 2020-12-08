@@ -27,7 +27,18 @@ f.close()'''
 
 import math
 
-a = float(input('Unesite A:')
+'''a = float(input('Unesite A:')
 b = float(input('Unesite B:')
 m = sqrt((cos(b)**2)/(sin(a+1)))
-print(M)
+print(M)'''
+
+'''from random import random
+
+x=3
+for i  in range(x):
+    print(random())
+    x+=1'''
+
+a = ("berta", "gastozz", "arsa", "doggydog", "fulya", "cryyuuup", "hc", "estefan")
+a = sorted(a, reverse=True)
+print(a)
